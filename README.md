@@ -1,4 +1,11 @@
 ## Hi there 👋
+This is Tiasa Jana.
+I am a full time coder and part time student.
+🔭 I’m currently working on a project for travel enthusiasts.
+🌱 I’m currently learning MERN stack.
+📫 How to reach me:
+tiasajana4567@gmail.com
+
 
 <!--
 **tiasa2003/tiasa2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
